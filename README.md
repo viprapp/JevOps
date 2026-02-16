@@ -1,6 +1,7 @@
 # jevops - DevOps + DevSecOps learning portfolio
 
-Public, hands-on learning journey: real projects, CI/CD, IaC, security gates, and operational docs.
+Public, hands-on learning journey: real projects, CI/CD, IaC, security gates,
+and operational docs.
 
 - Website: <https://jevops.de>
 - GitHub: <https://github.com/jevops-de>
