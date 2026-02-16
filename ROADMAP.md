@@ -2,12 +2,14 @@
 # Roadmap - DevOps and DevSecOps learning journey
 
 ## Current status
-- **Current focus:** _<one sentence>_
+
+- **Current focus:** Getting docs-quality to pass
 - **Now working on:** Stage 0 - Portfolio setup
-- **Last completed:** _<none yet>_
+- **Last completed:** _none yet_
 - **Next up:** Stage 1 - Foundations
 
 ## Progress overview
+
 | Stage | Outcome | Status | Evidence |
 |------:|---------|:------:|----------|
 | 0 | Portfolio setup | 🟩 | README, CI |

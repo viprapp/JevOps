@@ -1,6 +1,7 @@
 # Foundations
 
 Evidence-based notes and small practical exercises:
+
 - Linux essentials
 - Networking essentials
 - Git workflow
