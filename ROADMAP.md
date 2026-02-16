@@ -65,7 +65,7 @@ default, elevate per job).
 confidently.
 **Evidence:** `docs/foundations/` (short notes + practical examples).
 
-- [ ] Linux basics (processes/services, permissions, logs)
+- [x] Linux basics (processes/services, permissions, logs)
 - [ ] Networking basics (DNS, HTTP/HTTPS, ports, debugging tools)
 - [ ] Git workflow (branches, PRs, resolving conflicts)
 
