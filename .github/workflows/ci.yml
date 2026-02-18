@@ -9,6 +9,17 @@ permissions:
   contents: read
 
 jobs:
+  actionlint:
+    name: Lint workflows (actionlint)
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v6
+      - name: actionlint
+        uses: devops-actions/actionlint@v0.1.10
+
   docs-quality:
     runs-on: ubuntu-latest
     steps:
