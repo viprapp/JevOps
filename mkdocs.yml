@@ -1,6 +1,6 @@
 site_name: JevOps
 docs_dir: docs
-sote_dir: site
+site_dir: site
 
 nav:
   - Home: index.md
